@@ -28,7 +28,5 @@ public class MemberRepository {
             }
         }
         return null;
-    }return null;
     }
-}
 
